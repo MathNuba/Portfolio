@@ -1,8 +1,8 @@
 # Portfolio
 Mathieu Quintana
 Étudiant en ingénierie générale et aérospatiale
-📍 Bidart, France | 📧 mathieu.quintana@etu.estia.fr | 📞 +33 7 81 51 53 79
-🔗 [LinkedIn] | [GitHub] | [Portfolio en ligne]
+📍 Rennes, France | 📧 mathieu.quintana@etu.estia.fr | 📞 +33 7 81 51 53 79
+🔗 [LinkedIn](www.linkedin.com/in/mathieu-quintana-066964293) | [GitHub](https://github.com/MathNuba?tab=repositories)
 
 À propos de moi
 Étudiant en 3ème année d’ingénierie générale à l’ESTIA et en MSc Aerospace Computational Engineering à Cranfield University, je recherche un stage de 6 mois à partir du 4 mai 2025. Passionné par l’aérospatial, la modélisation computationnelle, la robotique et les technologies industrielles, je combine des compétences techniques en programmation, CAO, CFD et fabrication de composites avec une expérience pratique en gestion de projets et travail d’équipe.
