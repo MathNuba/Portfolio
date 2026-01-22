@@ -180,15 +180,15 @@ Projets
 Certifications et centres d’intérêt
 
 Certificat PSC1 (Premiers secours).
-Sports : Hockey sur glace (niveau compétitif, porteur de la flamme olympique 2024).
-Musique : Batterie (2008–2017), concerts au Rockstore/Victoire2 (Montpellier).
-Autres : Géopolitique, histoire, cuisine.
+Sports : Hockey sur glace (niveau compétitif, porteur de la flamme olympique 2024), Volleyball (équipe de Cranfield university)
+Musique : Batterie (2008–2017), concerts au Rockstore/Victoire2 (Montpellier)
+Autres : Géopolitique, histoire, cuisine
 
 Comment me contacter ?
-Je suis ouvert aux opportunités de stage, collaboration ou projet innovant dans les domaines de l’aérospatial, de la modélisation ou de l’ingénierie générale. N’hésite pas à me contacter pour échanger !
+Je suis ouvert aux opportunités de stage, collaboration ou projet innovant dans les domaines de l’aérospatial, de la modélisation/simulation à l’ingénierie générale. N’hésite pas à me contacter pour échanger !
 📩 Email : mathieu.quintana@etu.estia.fr
-🔗 LinkedIn : [lien]
-💻 GitHub : [lien]
+🔗 LinkedIn : [www.linkedin.com/in/mathieu-quintana-066964293]
+💻 GitHub : [https://github.com/MathNuba]
 
 
 
