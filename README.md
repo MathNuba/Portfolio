@@ -187,8 +187,8 @@ Autres : Géopolitique, histoire, cuisine
 Comment me contacter ?
 Je suis ouvert aux opportunités de stage, collaboration ou projet innovant dans les domaines de l’aérospatial, de la modélisation/simulation à l’ingénierie générale. N’hésite pas à me contacter pour échanger !
 📩 Email : mathieu.quintana@etu.estia.fr
-🔗 [LinkedIn].(www.linkedin.com/in/mathieu-quintana-066964293)
-💻 [GitHub].(https://github.com/MathNuba)
+🔗 [LinkedIn](www.linkedin.com/in/mathieu-quintana-066964293)
+💻 [GitHub](https://github.com/MathNuba)
 
 
 
